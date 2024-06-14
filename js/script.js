@@ -34,4 +34,4 @@ function agregarPeliculas(peliculas,contenedorId) {
 }
 agregarPeliculas(peliculasDeAccion,"genero-28");
 agregarPeliculas(peliculasDeThriller,"genero-53");
-agregarPeliculas(peliculasDeAction,"genero-12");
+agregarPeliculas(peliculasDeAventura,"genero-12");
